@@ -916,7 +916,7 @@ elif menu == "📚 Recursos":
             - **AM18**: Multisalud Base - Plan base con red preferente
             - **AM17**: Salud Esencial Plus - Versión mejorada del plan esencial
             - **AM15**: Salud Esencial - Plan económico con coberturas esenciales
-            - **AM05**: Multisalud Base - Plan base con red preferente
+            - **AM05**: Red Preferente - Plan accesible con red preferente
             
             *La cartilla completa con coberturas detalladas estará disponible próximamente.*
             """)
@@ -993,7 +993,7 @@ elif menu == "📚 Recursos":
                 'Multisalud',
                 'Medicvida Internacional',
                 'Medicvida Nacional',
-                'Multisalud Base',
+                'Red Preferente',
                 'Multisalud Base',
                 'Salud Esencial Plus',
                 'Salud Esencial'
